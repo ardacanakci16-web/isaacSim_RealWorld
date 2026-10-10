@@ -21,4 +21,5 @@ __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia ./isaac-sim.sh \
     --/app/useFabricSceneDelegate=true \
     --enable cesium.usd.plugins \
     --enable cesium.omniverse \
-    --open "$USD_PATH"
+    --exec "open_stage.py $USD_PATH"
+
