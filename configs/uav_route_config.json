@@ -1,0 +1,10 @@
+{
+  "uav_prim_path": "/World/sabit_kanat_iha",
+  "stage_meters_per_unit": 1.0,
+  "uav_dimensions_m": [11.74, 7.20, 2.55],
+  "sensor_offset_z_m": -1.37,
+  "altitude_m": 300.0,
+  "speed_m_s": 30.0,
+  "save_every_frames": 30,
+  "output_dir": "/tmp/uav_capture"
+}
